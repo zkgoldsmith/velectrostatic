@@ -3,7 +3,7 @@
 # Script to parse and xy-plane average .cube files from QE/Environ output
 #
 # To use:
-# python cube2dat.py filename.cube [outfilename]
+# python vel-xyavg.py velectrostatic.cube [outfilename]
 #
 # Prints data file of form { z , xy-averaged quantity }
 #
